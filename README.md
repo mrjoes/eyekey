@@ -1,4 +1,5 @@
 eyekey
 ======
 
-EyeTribe On-Screen Keyboard
+Simple on-screen keyboard with support for EyeTribe eye tracker for Windows.
+
